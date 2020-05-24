@@ -29,9 +29,12 @@ MIT
 @angular/core
 MIT
 
+<<<<<<< HEAD
 @angular/forms
 MIT
 
+=======
+>>>>>>> d3afd035c268733723b90bea7dcc3c7b5459c5fa
 @angular/platform-browser
 MIT
 
